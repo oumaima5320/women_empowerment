@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: women_empowerment
+Implementation-Version: 1.0
+Built-By: hp
+Implementation-Vendor-Id: tn.esprit.spring.women
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://spring.io/projects/spring-boot/women_empow
+ erment
+Created-By: Maven Integration for Eclipse
+
